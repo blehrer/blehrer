@@ -5,7 +5,7 @@
   - QA
   - Java
   - My [dotfiles](../../../dotfiles)
-  - My [ErgoDox layout](https://configure.zsa.io/embed/ergodox-ez-st/layouts/ndVrG/bvbmgQ/0)
+  - My [ErgoDox layout](https://configure.zsa.io/embed/ergodox-ez-st/layouts/ndVrG/latest/0)
   - My Vim/NeoVim journey
 - 📫 How to reach me: ...
   - x: [@signalsignifies](https://x.com/signalsignifies)
