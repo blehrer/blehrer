@@ -5,7 +5,7 @@
   - QA
   - Java
   - My [dotfiles](../../../dotfiles)
-  - My ErgoDox layout([code](../../../oryx-with-custom-qmk), [tour](https://configure.zsa.io/embed/ergodox-ez-st/layouts/ndVrG/latest/0))
+  - My ErgoDox layout ([code](../../../oryx-with-custom-qmk), [tour](https://configure.zsa.io/embed/ergodox-ez-st/layouts/ndVrG/latest/0))
   - My Vim/NeoVim journey
 - 📫 How to reach me: ...
   - x: [@signalsignifies](https://x.com/signalsignifies)
