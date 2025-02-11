@@ -8,4 +8,4 @@
   - My ErgoDox layout journey ([code](../../../oryx-with-custom-qmk), [tour](https://configure.zsa.io/embed/ergodox-ez-st/layouts/ndVrG/latest/0))
   - My Vim/NeoVim journey
 - 📫 How to reach me: ...
-  - x: [@signalsignifies](https://x.com/signalsignifies)
+  - x: [@pointerago](https://x.com/pointerago)
