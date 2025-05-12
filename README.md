@@ -6,6 +6,6 @@
   - Java
   - My [dotfiles](../../../dotfiles)
   - My ErgoDox layout journey ([code](../../../oryx-with-custom-qmk), [tour](https://configure.zsa.io/embed/ergodox-ez-st/layouts/ndVrG/latest/0))
-  - My Vim/NeoVim journey
+  - My Vim/NeoVim journey ([config](https://github.com/blehrer/kickstart.nvim))
 - 📫 How to reach me: ...
   - x: [@pointerago](https://x.com/pointerago)
